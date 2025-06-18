@@ -5,8 +5,15 @@
 -->
 <data-extraction-rules>
     <cloud-backup>
+<<<<<<< HEAD
 
 
+=======
+        <!-- TODO: Use <include> and <exclude> to control what is backed up.
+        <include .../>
+        <exclude .../>
+        -->
+>>>>>>> 42eefe0f738799274dbe6528fa6f536546c4f6f6
     </cloud-backup>
     <!--
     <device-transfer>
